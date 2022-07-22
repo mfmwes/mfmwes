@@ -1,4 +1,7 @@
 ### Olá, eu me chamo Wesley Militão 👋
+Sou Professor, Tradutor e Intérprete de Libras.
+Atualmente estou estudando para me tornar um desenvolvedor Web.
+
 
 
 
