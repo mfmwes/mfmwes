@@ -14,7 +14,7 @@ Sou Professor, Tradutor/Intérprete de Libras e atualmente estou estudando para 
   
   ##
   
- ### Linguagens que estou estudando:
+ ### Linguagens e tecnologias que estou estudando:
 
   <div style="display: inline-block"><br>
   <img align="center" alt="wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
