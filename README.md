@@ -1,3 +1,6 @@
+
+<img src='./images/1668206422485.jpg'>
+
 ```JavaScript
 const aboutMe = {
   name: 'Wesley Militão',
