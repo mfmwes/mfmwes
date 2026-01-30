@@ -4,7 +4,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Wesley Militão',
-  age: '24',
+  age: '27',
   rank: 'Web Developer',
   country: 'Brazil',
   city:'Fortaleza'
