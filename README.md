@@ -19,7 +19,7 @@ const aboutMe = {
 function contactMe() {
   return {
     email: 'wesmilitao@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/wesley-militao/',
+    linkedin: 'https://www.linkedin.com/in/milit4o/',
   }
 }
 ```
@@ -36,7 +36,7 @@ function contactMe() {
   
  ### Linguagens e tecnologias utilizadas:
 
-  <div align="center" style="display: inline-block"><br>
+  <div align="center" style="display:flex"><br>
   <img align="center" alt="wes-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="wes-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="wes-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -52,5 +52,5 @@ function contactMe() {
   <div> 
   <a href="https://www.instagram.com/milit4o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wesmilitao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-militao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/milit4o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
